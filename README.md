@@ -13,3 +13,4 @@ The Github for the api can be located [here](https://github.com/graphql/swapi-gr
 ## Useful Articles
 * [How To Graphql with react-relay](https://www.howtographql.com/react-relay/1-getting-started/)
 * [react-relay docs](https://relay.dev/docs/)
+* [Other Graphql APIS](https://www.apollographql.com/blog/community/backend/8-free-to-use-graphql-apis-for-your-projects-and-demos/)
