@@ -9,3 +9,7 @@ The Github for the api can be located [here](https://github.com/graphql/swapi-gr
 * You can see a short demo of the app here
 * If you want to install it via the expo app go here
 * If you want to checkout an expo snack of it go here
+
+## Useful Articles
+* [How To Graphql with react-relay](https://www.howtographql.com/react-relay/1-getting-started/)
+* [react-relay docs](https://relay.dev/docs/)
